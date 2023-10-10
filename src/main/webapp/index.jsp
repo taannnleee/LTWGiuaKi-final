@@ -34,7 +34,7 @@
             the field of Information Technology. This website is where I share my knowledge, experience and passion in
             this field.Looking forward to working with you one day soon</p>
         <div class="btn-box">
-            <a href="#">Hire Me</a>
+            <a href="https://github.com/taannnleee">Hire Me</a>
             <a href="#">Let's Talk</a>
         </div>
     </div>
@@ -119,40 +119,43 @@
         </video>
     </div>
 
-    <h2 class="heading">Latest <span>Project</span></h2>
+
     <div class="portfolio-container">
+
         <div class="portfolio-box">
             <img src="img/portfolio1.jpg" alt="">
-            <div class="portfolio-layer">
+            <a href="https://bai1-survey.onrender.com/home/" class="portfolio-layer">
                 <h4>Web Design</h4>
                 <p>Unit 1: Survey <br> Date: 21/8/2023</p>
                 <a href="#">
                     <box-icon name='sushi'></box-icon>
                 </a>
-            </div>
+            </a>
+            </a>
         </div>
+
         <div class="portfolio-box">
             <img src="img/portfolio2.jpg" alt="">
-            <div class="portfolio-layer">
+            <a href="https://bai2-email.onrender.com/home/" class="portfolio-layer">
                 <h4>Web Design</h4>
                 <p>Unit 2: Email <br> Date: 27/8/2023</p>
-            </div>
-            <a href="#"> <i class='bx bx-link-external'></i></a>
+            </a>
+
         </div>
         <div class="portfolio-box">
             <img src="img/portfolio4.jpg" alt="">
-            <div class="portfolio-layer">
+            <a href="https://bai3-download.onrender.com/home/" class="portfolio-layer">
                 <h4>Web Design</h4>
                 <p>Unit 3: Download <br> Date: 5/9/2023</p>
-            </div>
+            </a>
             <a href="#"> <i class='bx bx-link-external'></i></a>
         </div>
         <div class="portfolio-box">
             <img src="img/portfolio6.jpg" alt="">
-            <div class="portfolio-layer">
+            <a href="https://bai4-cart.onrender.com/home/" class="portfolio-layer">
                 <h4>Web Design</h4>
                 <p>Unit 4: Cart <br> Date: 21/9/2023</p>
-            </div>
+            </a>
             <a href="#"> <i class='bx bx-link-external'></i></a>
         </div>
         <div class="portfolio-box">
