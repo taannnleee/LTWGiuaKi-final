@@ -24,7 +24,7 @@ body {
     padding: 20px 10%;
     background: transparent;
     display: flex;
-    justify-content: space-between;
+    justify-content: center ;
     align-items: center;
     z-index: 100;
     top: 40px;
